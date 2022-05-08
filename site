@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML 5</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<form action="">
+    <div class="phone">
+        <label for="phone"> Phone </label>
+        <input type="Phone" value="+380">
+    </div>
+    <div>
+        <label for=""> F1rs Last Name </label>
+        <input type="text" placeholder="John">
+    </div>
+    <div>
+        <label for=""> em@il </label>
+        <input type="email" placeholder="your email">
+    </div>
+    <div>
+        <label for="checkbox">Agree our rools</label>
+        <input type="checkbox" id="checkbox">
+    </div>
+    <div>
+        <input type="submit"value="Send form">
+    </div>
+    <div>
+        <label for="radio"> Yes </label>
+        <input type="radio"  id="radio" name="rad">
+    </div>
+    <div>
+        <label for="radio"> No </label>
+        <input type="radio"  id="radio" name="rad">
+    </div>
+    <div class="img">
+        <img src="images/f84250a2d2c547d6b046990b326e2e54.jpg" alt="Angel pray">
+    </div>
+    <!-- <div>
+        <label for=""> About ur self </label>
+        <textarea name="" id="" cols="30" rows="10"></textarea>
+    </div>
+    <div>
+        <label for=""> Color </label>
+        <input type="color" value="#00f9ff">
+    </div>
+    <div>
+        <label for=""> Your quallity  </label>
+        <input type="range" value="20" min="0" max="100">
+    </div> -->
+    
+</form>
+
+</body>
+
+
+</html>
